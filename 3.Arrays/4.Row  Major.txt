@@ -1,0 +1,19 @@
+//Row Major 
+
+Address of  A[m][n];
+
+A[i][j]=L0 + [i*n+j]*w;
+
+i=Row at i --esa jab hoga tab - for(int i=0;i++)
+j=column at j
+n=total no of columns
+L0=left most value(1st value)
+w=Size of datatype 
+
+for int w=2 or 4
+  float w=4
+  double w=8
+
+
+  
+

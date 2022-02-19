@@ -1,0 +1,23 @@
+
+A[i][j]=L0 +[j*m+i]*w;
+
+i=Row at i --esa jab hoga tab - for(int i=0;i++)
+j=column at j
+n=total no of columns
+L0=left most value(1st value)
+w=Size of datatype 
+
+for int w=2 or 4
+  float w=4
+  double w=8
+
+for 4d array
+
+  typr A[d1][d2][d3][d4];
+
+Row Major =
+Addr(A[i1][i2][i3][i4])=L0+[i1*d2*d3*d4+i2*d3*d4+i3*d4+i4]*w;
+
+Column Major =
+Addr(A[i1][i2][i3][i4])=L0+[i4*d1*d2*d3+i3*d1*d2+i2*d1+i1]*w;
+

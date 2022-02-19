@@ -1,0 +1,13 @@
+3D Arrays
+
+Row major =
+int A[l][m][n];
+
+addr(A[i][j][k])=L0+[k*l*m+j*l+i]*w;
+
+Column major =
+int A[l][m][n];
+
+addr(A[i][j][k])=L0+[k*l*m+j*l+i]*w;
+
+

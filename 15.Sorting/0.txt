@@ -1,0 +1,20 @@
+Bubble sort
+Insertion sort
+Selection Sorting
+Heap sort
+Merge sort
+Quick sort
+Tree sort
+Shell sort
+
+Count sorting
+Bucker/bin sort
+Radix sort
+
+Criteria Used for analysis of Sorting
+1.No. of Comparisions 
+2.No . of Swaps 
+3.Adaptive 
+4.Stable 
+5.Extra Memory 
+
